@@ -1,7 +1,7 @@
 # Apriori-movie-ranking
 
-###Data Prep
+### Data Prep
 
-###Apriori
+### Apriori
 
-##抽取关联规则
+### 抽取关联规则
